@@ -1,0 +1,32 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-travelapp-dev-21212-authRole",
+      "UnauthRoleArn": "arn:aws:iam::023511797941:role/amplify-travelapp-dev-21212-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::023511797941:role/amplify-travelapp-dev-21212-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-travelapp-dev-21212-deployment",
+      "UnauthRoleName": "amplify-travelapp-dev-21212-unauthRole",
+      "StackName": "amplify-travelapp-dev-21212",
+      "StackId": "arn:aws:cloudformation:us-west-1:023511797941:stack/amplify-travelapp-dev-21212/33f7fbb0-1726-11ee-869d-068e9bfd1683",
+      "AmplifyAppId": "d3rbenl2y4qwky"
+    },
+    "categories": {
+      "function": {
+        "LocationsHandler": {
+          "deploymentBucketName": "amplify-travelapp-dev-21212-deployment",
+          "s3Key": "amplify-builds/LocationsHandler-766e735445415368547a-build.zip"
+        }
+      },
+      "api": {
+        "apia8164923": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3rbenl2y4qwky",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}

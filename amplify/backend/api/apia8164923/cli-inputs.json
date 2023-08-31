@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/locations/{locationId}": {
+      "name": "/locations/{locationId}",
+      "lambdaFunction": "LocationsHandler",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
